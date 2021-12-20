@@ -32,6 +32,12 @@
          "id":40,
          "name":"Paris",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/paris.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -44,6 +50,12 @@
          "id":41,
          "name":"North",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/north.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
