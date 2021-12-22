@@ -32,6 +32,12 @@
          "id":40,
          "name":"Dunes",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/france_small.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
